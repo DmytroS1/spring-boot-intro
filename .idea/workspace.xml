@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7d15ceb-1e13-4908-91c4-04fb46f895f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DmytroS1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DmytroS1/spring-boot-intro.git&quot;,
+    &quot;accountId&quot;: &quot;d4f5fb98-ed6d-4411-92dd-b2f99440a044&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.4444037014986334E-115" />
+      <entry key="S2" value="2.943268896415355E-29" />
+      <entry key="S5" value="7.467823086865764E-12" />
+      <entry key="S10" value="5.668295574078551E-6" />
+      <entry key="S30" value="0.06574596483489076" />
+      <entry key="S60" value="0.7995397728622098" />
+      <entry key="M2" value="2.921759752352024" />
+      <entry key="M5" value="7.457498127778226" />
+      <entry key="M10" value="14.248398475969983" />
+      <entry key="M15" value="19.744124095247706" />
+      <entry key="M30" value="29.21638614929533" />
+      <entry key="H1" value="36.394306064198695" />
+      <entry key="H2" value="40.84504385025005" />
+      <entry key="H4" value="43.327539701740754" />
+      <entry key="D1" value="45.54076164992722" />
+      <entry key="W1" value="45.93404724190363" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000001317" />
+      <entry key="S10" value="1.0000004130739946" />
+      <entry key="S30" value="1.0123271232748958" />
+      <entry key="S60" value="1.1841533857171895" />
+      <entry key="M2" value="1.7348361003084256" />
+      <entry key="M5" value="2.741635260586622" />
+      <entry key="M10" value="3.4542735976793253" />
+      <entry key="M15" value="3.8190594783760288" />
+      <entry key="M30" value="4.308749068051368" />
+      <entry key="H1" value="4.622627021032606" />
+      <entry key="H2" value="4.802353064882915" />
+      <entry key="H4" value="4.898792939315596" />
+      <entry key="D1" value="4.982788122190078" />
+      <entry key="W1" value="4.997532560040709" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.752136673066435E-4" />
+      <entry key="MS500" value="0.20646941623392998" />
+      <entry key="S2" value="0.6740838658685283" />
+      <entry key="S5" value="0.8540544757546392" />
+      <entry key="S10" value="0.924156143423643" />
+      <entry key="S30" value="1.0493533451287305" />
+      <entry key="S60" value="1.9536643501797033" />
+      <entry key="M2" value="4.619345346468124" />
+      <entry key="M5" value="10.169344130199132" />
+      <entry key="M10" value="17.683026364899863" />
+      <entry key="M15" value="23.548543341355362" />
+      <entry key="M30" value="33.51679002416615" />
+      <entry key="H1" value="41.01243014247571" />
+      <entry key="H2" value="45.64505006676704" />
+      <entry key="H4" value="48.22513347935783" />
+      <entry key="D1" value="50.523346160497354" />
+      <entry key="W1" value="50.93155062028024" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3Ls0ErRyhpEoY1seYAMrmnLr9qI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/dmytro/IdeaProjects/spring-boot-intro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spring_boot_intro.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7d15ceb-1e13-4908-91c4-04fb46f895f0" name="Changes" comment="" />
+      <created>1794227361313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794227361313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
